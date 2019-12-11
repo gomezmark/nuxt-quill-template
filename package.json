@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "nuxt": "^1.0.0",
+    "quill": "2.0.0-dev.3",
+    "quill-better-table": "^1.2.8",
     "vuetify": "^0.17.3"
   },
   "devDependencies": {
