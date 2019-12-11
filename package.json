@@ -3,7 +3,14 @@
   "version": "1.0.0",
   "description": "Sample template for integrating quill with nuxt",
   "author": "Mark Gomez",
-  "private": true,
+  "keywords": ["nuxt-quill","vue quill", "nuxt quill-better-table"],
+  "bugs": "https://github.com/gomezmark/nuxt-quill-template/issues",
+  "files": ["*"],
+  "repository": {
+    "url": "https://github.com/gomezmark/nuxt-quill-template",
+    "type": "git"
+  },
+  "license": "MIT",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
