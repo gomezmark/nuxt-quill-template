@@ -2,6 +2,9 @@
 
 > Sample template for integrating quill with nuxt
 
+This is using quill together with quill better table as a separate module.
+
+
 ## Build Setup
 
 ``` bash
