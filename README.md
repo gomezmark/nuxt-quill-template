@@ -1,3 +1,9 @@
+# Installation
+```
+npm i nuxtquill
+```
+
+
 # Nuxt Quill
 
 > Sample template for integrating quill with nuxt
